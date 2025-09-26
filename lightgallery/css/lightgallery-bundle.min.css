@@ -1420,8 +1420,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
     display: inline-block;
     text-align: center;
     position: absolute;
+    
     width: 100%;
-    height: 100%
+    height: 100%;
+    
+   
 }
 
 .lg-outer .lg-img-wrap:before,
@@ -1648,3 +1651,8 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
     right: 0;
     left: 0
 }
+
+
+
+
+
